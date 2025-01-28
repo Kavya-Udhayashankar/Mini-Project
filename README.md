@@ -5,3 +5,5 @@ This project is part of the SRM's 6th Semester's Mini Project under the departme
 Team Members : 
 1) Kavya U
 2) Umesh GJH
+
+Title : Dashboard for real-time monitoring of water resources
